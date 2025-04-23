@@ -1,6 +1,6 @@
 # QR Code Generator 🧾➡️📱
 
-A simple web-based QR code generator using the api.qrserver.com . Enter any text or URL and instantly get a QR code!
+A simple web-based QR code generator using the https://goqr.me/api/ . Enter any text or URL and instantly get a QR code!
 
 ## 🛠 Features
 
@@ -13,4 +13,4 @@ A simple web-based QR code generator using the api.qrserver.com . Enter any text
 - HTML
 - CSS
 - JavaScript
-- api.qrserver.com
+- https://goqr.me/api/
